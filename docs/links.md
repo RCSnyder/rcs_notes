@@ -1,0 +1,5 @@
+- https://hybridhacker.email/p/the-evolution-of-software-development?r=2bjtip
+- https://vadimkravcenko.com/shorts/habits-of-great-software-engineers/
+- https://www.developing.dev/p/6-software-engineering-templates
+- https://www.honeycomb.io/blog/prompt-engineering
+- https://sidsite.com/posts/python-corrset-optimization/
